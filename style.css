@@ -1,0 +1,50 @@
+.title {
+  font-size: 65px;
+}
+
+h1,h2 {
+  background-color: rgb(0, 0, 0);
+  color: #ffffff;
+  padding: 5px;
+}
+
+.Logo{
+
+  justify-content: right;
+
+}
+
+img {
+  
+    display: block;
+    margin: auto;
+    width: 50%;
+    height: 50%;
+  
+}
+
+body{
+
+  background-image: linear-gradient(rgb(0, 0, 0) 20%, rgb(38, 72, 184) 50%, rgb(30, 114, 211) 80%);
+
+}
+
+nav{
+
+    background-color: rgb(0, 0, 0);
+
+}
+
+
+
+th{
+  
+  background-color: rgb(30, 175, 211);
+}
+
+td{
+
+  background-color: rgb(255, 255, 255);
+
+}
+
