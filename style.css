@@ -8,19 +8,16 @@ h1,h2 {
   padding: 5px;
 }
 
-.Logo{
 
-  justify-content: top right;
 
-}
+
 
 img {
-  
-    display: block;
-    margin: auto;
-    width: 50%;
-    height: 50%;
-  
+  display: block;
+  margin: auto;
+  width: 60%;
+  height: 50%;
+
 }
 
 body{
@@ -50,4 +47,8 @@ td{
 
 p {
   color: rgb(255, 255, 255);
+}
+
+a {
+  color: rgb(233, 8, 38);
 }
